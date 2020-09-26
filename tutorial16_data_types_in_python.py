@@ -39,7 +39,7 @@ g = (b==c) #Boolean True/False
 For image processing using skimage:
 uint8: 0 to 255
 uint16: 0 to 65535
-uint32: 0 to 232 - 1
+uint32: 0 to 2**(32 - 1)
 float: -1 to 1 or 0 to 1
 int8: -128 to 127
 int16: -32768 to 32767
